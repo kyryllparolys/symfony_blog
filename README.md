@@ -1,1 +1,1 @@
-Simple blog application I created to learn symfony.
+Simple blog application I created to try symfony.
